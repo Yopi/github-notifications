@@ -1,0 +1,18 @@
+1. Please create a notification app in the style of PullBar or similar apps that show requested reviews.
+
+  I want it to live in the macos menubar and have a number count for unread / unacted things. I want it to basically mirror https://github.com/pulls/inbox [Image #1]
+
+  But I also want to know if there are new comments in the PRs (feedback or questions). Make it simple, keep it simple but please make it look good and similar to a real macos app. Make it
+  native basically.
+
+  Go for this on your own, use sub agents for reviews and questions/responses. Run it and screenshot it to feedback yourself
+
+2. Could you add a small preference pane with checkboxes for what to give me a real system notification for? review requested, comment added, PR approved or PR request changes
+
+3. Add a note that no human has read this source code in the readme
+
+4. Could you generate a nice looking notification icon
+
+5. Could you make the icon a bit cuter?
+
+6. Would it be possible to get a "real window" for the preference pane? So I can find it behind other windows
